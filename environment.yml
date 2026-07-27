@@ -1,0 +1,20 @@
+name: egi_replay_env
+channels:
+  - conda-forge
+  - coecms
+  - defaults
+dependencies:
+  - cartopy
+  - cf_xarray
+  - cmocean
+  - cosima-cookbook
+  - dask
+  - distributed
+  - eofs
+  - intake
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy
+  - xarray
+  - sqlalchemy=1.4
